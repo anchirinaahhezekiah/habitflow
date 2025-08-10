@@ -2,33 +2,33 @@
 
 A beautiful and intuitive Flutter app designed to help you build and maintain healthy daily habits. Track your progress, visualize your streaks, and stay motivated on your journey to personal growth.
 
-## ✨ Features
+##  Features
 
-### 🎯 **Core Functionality**
+### **Core Functionality**
 - **Daily Habit Tracking** - Simple checkbox interface to mark habits as complete
 - **Multi-Day Navigation** - Horizontal date picker to view and update past days
 - **Smart Categories** - Organize habits by Health, Fitness, Productivity, Mindfulness, Learning, or Other
 - **Flexible Frequency** - Set habits for daily, weekly, or monthly goals
 
-### 📊 **Progress & Analytics**
+### **Progress & Analytics**
 - **Streak Tracking** - See your current streak for each habit with fire emoji motivation 🔥
 - **Visual Progress Charts** - 30-day completion trends using beautiful line charts
 - **Daily Statistics** - Today's completion rate and progress overview
 - **Long-term Insights** - Track your consistency and growth over time
 
-### 🎨 **User Experience**
+### **User Experience**
 - **Animated Splash Screen** - Smooth fade-in animation with app branding
 - **Dark/Light Mode** - Toggle between themes for comfortable viewing
 - **Material Design** - Clean, modern interface following Google's design principles
 - **Responsive Layout** - Optimized for various screen sizes
 
-### ⚙️ **Management**
+### **Management**
 - **Add/Edit/Delete Habits** - Full CRUD operations with form validation
 - **Data Persistence** - Your habits and progress are saved locally
 - **Settings Panel** - Customize notifications and app preferences
 - **Data Reset Option** - Fresh start when needed
 
-## 📱 Screenshots
+## Screenshots
 
 *Add your app screenshots here*
 
