@@ -40,7 +40,7 @@ A beautiful and intuitive Flutter app designed to help you build and maintain he
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/habitflow.git
+   git clone https://github.com/anchirinaahhezekia/habitflow.git
    cd habitflow
    ```
 
