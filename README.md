@@ -57,13 +57,13 @@ A beautiful and intuitive Flutter app designed to help you build and maintain he
    flutter run
    ```
 
-## 📦 Dependencies
+## Dependencies
 
 - `fl_chart: ^0.65.0` - Beautiful charts for progress visualization
 - `shared_preferences: ^2.2.2` - Local data persistence
 - `intl: ^0.19.0` - Date formatting and internationalization
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 lib/
@@ -85,7 +85,7 @@ lib/
     └── theme.dart           # App theming and color schemes
 ```
 
-## 🎨 Design Philosophy
+## Design Philosophy
 
 HabitFlow uses a **green primary color** (#4CAF50) representing growth and health, with **amber accents** (#FFC107) for motivation and achievements. The design emphasizes:
 
@@ -94,7 +94,7 @@ HabitFlow uses a **green primary color** (#4CAF50) representing growth and healt
 - **Accessibility** - Support for both light and dark themes
 - **Consistency** - Material Design principles throughout
 
-## 🚧 Future Enhancements
+## Future Enhancements
 
 - [ ] Push notifications for habit reminders
 - [ ] Habit templates and suggestions
@@ -104,7 +104,7 @@ HabitFlow uses a **green primary color** (#4CAF50) representing growth and healt
 - [ ] Habit grouping and routines
 - [ ] Export data functionality
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
@@ -114,13 +114,3 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Flutter team for the amazing framework
-- fl_chart library for beautiful charts
-- Material Design for UI/UX inspiration
-- The open-source community for continuous learning
