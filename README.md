@@ -1,4 +1,4 @@
-# 🌱 HabitFlow - Daily Habits Tracker
+#  HabitFlow - Daily Habits Tracker
 
 A beautiful and intuitive Flutter app designed to help you build and maintain healthy daily habits. Track your progress, visualize your streaks, and stay motivated on your journey to personal growth.
 
@@ -11,7 +11,7 @@ A beautiful and intuitive Flutter app designed to help you build and maintain he
 - **Flexible Frequency** - Set habits for daily, weekly, or monthly goals
 
 ### **Progress & Analytics**
-- **Streak Tracking** - See your current streak for each habit with fire emoji motivation 🔥
+- **Streak Tracking** - See your current streak for each habit with fire emoji motivation 
 - **Visual Progress Charts** - 30-day completion trends using beautiful line charts
 - **Daily Statistics** - Today's completion rate and progress overview
 - **Long-term Insights** - Track your consistency and growth over time
@@ -28,11 +28,8 @@ A beautiful and intuitive Flutter app designed to help you build and maintain he
 - **Settings Panel** - Customize notifications and app preferences
 - **Data Reset Option** - Fresh start when needed
 
-## Screenshots
 
-*Add your app screenshots here*
-
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Flutter SDK (>=3.0.0)
